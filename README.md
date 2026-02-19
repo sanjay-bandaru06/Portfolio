@@ -1,59 +1,74 @@
-# 🌐 Animated Portfolio Website
+🌐 Sanjay's Developer Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A modern, responsive, and fully animated Developer Portfolio Website built using React.js and Tailwind CSS to showcase my projects, skills, and education as a Computer Science Engineering (2026) student.
 
-## 🚀 Live Demo
+This portfolio highlights my work in Full Stack Development, including real-world projects developed using React and modern web technologies.
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🚀 Live Demo
 
-## 🛠️ Tech Stack
+🔗 https://your-portfolio-link.vercel.app/
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+🛠️ Tech Stack
 
-## 📁 Features
+⚛️ React.js
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+🎨 Tailwind CSS
 
+⚡ Vite
 
-## 🧑‍💻 How to Use
+💾 Vercel (Deployment)
 
-### 1. Clone the Repo
+📁 Features
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+Fully Responsive Design 📱💻
 
-### 2. Install Dependencies
+Animated UI Components ✨
 
-```bash
+Timeline-based Education Section 🎓
+
+Projects Showcase with Live Links 🚀
+
+Skills & Tech Stack Section 🧠
+
+Contact Form Integration 📩
+
+Clean and Modular Code Structure 🧩
+
+Optimized for Performance ⚡
+
+🧑‍💻 How to Run Locally
+1. Clone the Repository
+git clone https://github.com/your-username/your-portfolio-repo.git
+cd your-portfolio-repo
+
+2. Install Dependencies
 npm install
-```
 
-### 3. Run the App
+3. Start Development Server
+npm run dev
 
-```bash
-npm start
-```
-
-### 4. Build for Production
-
-```bash
+4. Build for Production
 npm run build
-```
 
-## 📹 YouTube Tutorial
+🎓 Education
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+B.Tech in Computer Science and Engineering
+Aditya Engineering College (2022 – 2026)
 
-## 🌟 Credits
+🌟 About Me
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+I am a passionate Computer Science Engineering student focused on building scalable web applications using modern technologies like React.js. I enjoy creating clean UI/UX designs and developing full-stack solutions for real-world problems.
+
+📬 Contact
+
+Feel free to reach out for collaboration or internship opportunities!
+
+📧 Email: sanjay.bandaru565@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sanjay-bandaru-468a79264/
+
+🐙 GitHub: https://github.com/sanjay-bandaru06
+
+⭐ Show Your Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
